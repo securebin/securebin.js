@@ -12,7 +12,7 @@
   "dependencies": {
     "@types/crypto-js": "^4.0.1",
     "@types/node": "^14.14.7",
-    "axios": "^0.21.0",
+    "axios": "^0.21.1",
     "crypto-js": "^4.0.0",
     "url-join": "^4.0.1"
   },
